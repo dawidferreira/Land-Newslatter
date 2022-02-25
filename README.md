@@ -1,4 +1,4 @@
-# Land-Newslatter
-Landing Page Newslatter
+# Land-Newsletter
+Landing Page Newsletter
 
 Responsiva utilizando HTML e CSS!
